@@ -5,9 +5,6 @@ import time
 import random
 from numpy import *
 import win32gui
-#HELLO
-def newbranch():
-    pass
 VANGUARD=5755
 BLADEMASTER=2805
 SORC=4290
