@@ -5,6 +5,7 @@ import time
 import random
 from numpy import *
 import win32gui
+#HELLO
 VANGUARD=5755
 BLADEMASTER=2805
 SORC=4290
